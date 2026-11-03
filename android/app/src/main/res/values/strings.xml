@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GDC 3.0</string>
+    <string name="title_activity_main">GDC 3.0</string>
+    <string name="package_name">com.gutta.gdc3</string>
+    <string name="custom_url_scheme">com.gutta.gdc3</string>
+</resources>
